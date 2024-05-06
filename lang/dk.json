@@ -1,0 +1,25 @@
+{
+    "hero": {
+        "title": "It's time to mine.",
+        "subtitle": "Ore er en digital valuta, du kan mine fra hvor som helst, hjemme eller på din telefon.",
+        "button": "Kom igang →"
+    },
+    "info": {
+        "title": "Proof of work",
+        "title-last": "På Solana.",
+        "subtitle": "Ore bruger en ny mineprotokol designet til retfærdig distribution af tokens. Det garanterer, at ingen minearbejder nogensinde kan blive udsultet fra at tjene belønninger.",
+        "learn-more": "Learn more →",
+        "trans": "Live transactions"
+    },
+    "supply": {
+        "title": "Stabilt supply",
+        "title-last": "På Solana.",
+        "subtitle": "Ore har en algoritmisk forsyning programmeret til konstant lineær vækst. I gennemsnit udvindes et nyt Ore-token hvert minut af miners over hele kloden.",
+        "learn-more": "Lær mere →"
+    },
+    "footer": {
+        "copyright": "© 2024 Company Name. All rights reserved.",
+        "privacy_policy": "Privacy Policy",
+        "terms_of_service": "Terms of Service"
+    }
+}

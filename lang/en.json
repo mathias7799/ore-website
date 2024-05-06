@@ -1,0 +1,25 @@
+{
+    "hero": {
+        "title": "It's time to mine.",
+        "subtitle": "Ore is a digital currency you can mine from anywhere, at home or on your phone.",
+        "button": "Get started →"
+    },
+    "info": {
+        "title": "Proof of work",
+        "title-last": "On Solana.",
+        "subtitle": "Ore uses a novel mining protocol designed for fair token distribution. It guarantees no miner can ever be starved out from earning rewards.",
+        "learn-more": "Learn more →",
+        "trans": "Live transactions"
+    },
+    "supply": {
+        "title": "Stable supply",
+        "title-last": "On Solana.",
+        "subtitle": "Ore has an algorithmic supply programmed for constant linear growth. On average, one new Ore token is mined every minute by miners around the globe.",
+        "learn-more": "Learn more →"
+    },
+    "footer": {
+        "copyright": "© 2024 Company Name. All rights reserved.",
+        "privacy_policy": "Privacy Policy",
+        "terms_of_service": "Terms of Service"
+    }
+}

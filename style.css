@@ -1,0 +1,47 @@
+.bg-hero {
+    background-image: url('https://ore.supply/smoke.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.font-hero {
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-hero {
+    background-color: #34D399;
+    color: #ffffff;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.btn-hero:hover {
+    background-color: #22C55E;
+}
+.info-title-last {
+    margin-top: -2.5rem;
+}
+.rounded-md {
+    border-radius: 0.5rem;
+  }
+  
+  #language-button:hover .dropdown {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  #language-options {
+    background-color: white;
+    transition: opacity 0.15s ease-in-out, visibility 0.15s ease-in-out;
+  }
+  
+  #language-options a {
+    text-decoration: none;
+    color: #333; /* Adjust text color */
+    padding: 0.5rem 1rem;
+    display: block;
+    transition: background-color 0.15s ease-in-out;
+  }
+  
+  #language-options a:hover {
+    background-color: #f0f0f0; /* Adjust hover color */
+  }
